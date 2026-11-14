@@ -1,7 +1,7 @@
 {
-  "versionCode": 1303,
-  "versionName": "1.3.3.0",
-  "url": "https://raw.githubusercontent.com/166beishanbaihu/Fs20modConverterV3/main/Fs20modConverterV3_1.3.3.0.apk",
+  "versionCode": 1304,
+  "versionName": "1.3.4.0",
+  "url": "https://raw.githubusercontent.com/166beishanbaihu/Fs20modConverterV3/main/Fs20modConverterV3_1.3.4.0.apk",
   "size": 1406015,
-  "notes": "1.3.3.0：云更新增加 jsDelivr 备用源；设置页进入即自动检查，支持应用内下载并安装。"
+  "notes": "1.3.4.0：云更新清单改走 GitHub API 实时读取，raw / jsDelivr 自动兜底；设置页进入即自动检查。"
 }
