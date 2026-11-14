@@ -1,7 +1,7 @@
 {
-  "versionCode": 1306,
-  "versionName": "1.3.6.0",
-  "url": "https://raw.githubusercontent.com/166beishanbaihu/Fs20modConverterV3/main/Fs20modConverterV3_1.3.6.0.apk",
-  "size": 1410111,
-  "notes": "1.3.6.0：车辆封面支持点击放大查看，DDS 封面现场解码后高清展示。"
+  "versionCode": 1307,
+  "versionName": "1.3.7.0",
+  "url": "https://raw.githubusercontent.com/166beishanbaihu/Fs20modConverterV3/main/Fs20modConverterV3_1.3.7.0.apk",
+  "size": 1414207,
+  "notes": "1.3.7.0：封面引用写 .dds 但实际文件是 .png/.jpg 时自动关联并按真实扩展名改写。"
 }
