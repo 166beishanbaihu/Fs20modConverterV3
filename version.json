@@ -1,7 +1,7 @@
 {
-  "versionCode": 1307,
-  "versionName": "1.3.7.0",
-  "url": "https://raw.githubusercontent.com/166beishanbaihu/Fs20modConverterV3/main/Fs20modConverterV3_1.3.7.0.apk",
+  "versionCode": 1308,
+  "versionName": "1.3.8.0",
+  "url": "https://raw.githubusercontent.com/166beishanbaihu/Fs20modConverterV3/main/Fs20modConverterV3_1.3.8.0.apk",
   "size": 1414207,
-  "notes": "1.3.7.0：封面引用写 .dds 但实际文件是 .png/.jpg 时自动关联并按真实扩展名改写。"
+  "notes": "1.3.8.0：品牌图标缺失时回落到默认 LIZARD 图标，不再出现空白品牌行。"
 }
