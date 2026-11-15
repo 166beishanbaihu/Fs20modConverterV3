@@ -1,7 +1,7 @@
 {
-  "versionCode": 1401,
-  "versionName": "1.4.1.0",
-  "url": "https://raw.githubusercontent.com/166beishanbaihu/Fs20modConverterV3/main/Fs20modConverterV3_1.4.1.0.apk",
+  "versionCode": 1402,
+  "versionName": "1.4.2.0",
+  "url": "https://raw.githubusercontent.com/166beishanbaihu/Fs20modConverterV3/main/Fs20modConverterV3_1.4.2.0.apk",
   "size": 1422463,
-  "notes": "1.4.1.0：品牌图标放大到 34px 高，清晰可辨。"
+  "notes": "1.4.2.0：恢复工具页，展示识别规则、转换规则与本次读取结果。"
 }
