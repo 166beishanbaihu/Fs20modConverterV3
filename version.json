@@ -1,7 +1,7 @@
 {
-  "versionCode": 1400,
-  "versionName": "1.4.0.0",
-  "url": "https://raw.githubusercontent.com/166beishanbaihu/Fs20modConverterV3/main/Fs20modConverterV3_1.4.0.0.apk",
-  "size": 1418367,
-  "notes": "1.4.0.0：车辆卡片改为显示 modDesc 的 description(en)，移除 xml 文件名与技术统计行。"
+  "versionCode": 1401,
+  "versionName": "1.4.1.0",
+  "url": "https://raw.githubusercontent.com/166beishanbaihu/Fs20modConverterV3/main/Fs20modConverterV3_1.4.1.0.apk",
+  "size": 1422463,
+  "notes": "1.4.1.0：品牌图标放大到 34px 高，清晰可辨。"
 }
